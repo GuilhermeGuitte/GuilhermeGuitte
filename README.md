@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-**I'm a Software Developer working in Lille, France.**
+**I'm a Engineer Manager/Software Developer working in Lille, France.**
 
 ### NOW
-✨ Experiments on RecSys / LLM / RAG
+✨ RecSys / LLM / RAG
 
 ### BIO
 🏢 I'm currently working at **Adeo Group**, France
@@ -12,8 +12,8 @@
 
 🖥 Code: `https://leroymerlin.com.br/`, `https://leroymerlin.fr/`
 
-🌱 Learning all about *Open Source*
+🌱 Learning all GNN, LLM, finetuning.
 
-💬 Ping me about **microservices**, **api design**, **golang**, **nest.js**, **laravel**, **kanban**, **4 key metrics**, **TDD**, **DDD**, **nx**, **RecSys**, **ML**.
+💬 Ping me about **RecSys**, **ML**, **microservices**, **api design**, **nest.js**, **TDD**, **DDD**.
 
 📫 Reach me: twitter.com/guilhermeguitte
